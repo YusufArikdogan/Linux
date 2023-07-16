@@ -1,0 +1,11 @@
+cd mevcut dizini degistirmeye yarar ornek: cd /home/
+TAB ile yazilan komut tamamlanabilir
+home tusu en basa end tusu en sonra gider
+cd tek basina yazilirsa tildaya gider en basa
+cd nereye gitceksen orayi yaz
+cd ~ root dizini
+Ubunut linuste klasorler mavi dosyalar beyaz gosteriyor
+cd . ayni klasor
+cd .. bir ust klasore gider  root/home/kullanici/diger klasorler seklinde siralanir.
+cd ../../  ana dizine gider iki onceki dizin
+clear komutu ekrani temizler
